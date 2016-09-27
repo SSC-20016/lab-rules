@@ -23,7 +23,7 @@ During weeks 9-10 you will have the possibility of give a presentation to your p
 
 ## Recuperating lost labs
 
-In case you cannot make it to a lab try attending one of the other three labs, in any given week. The later you recuperate a lab, the more knowledge you'll have to display. Be prepared!
+In case you cannot make it to a lab try attending one of the other three labs in any given week. The later you recuperate a lab, the more knowledge you'll have to display. Be prepared!
 
 ## No "hacking" the physical machines
 
@@ -33,4 +33,4 @@ You should leave the state of the OS and file system more or less intact when yo
 
 Are horrible. But we are constrained by a ridiculously inflexible system which assumes the existence of this barbaric method of measurement. Therefore, your `final grade = 50% average from labs + 50% exams`.   
 
-Each lab will have a short 5-10 minute quiz (3-4 questions) about the topic at hand. The said quiz will be worth between 30-40% of each lab; so please remember your obligations for this lab :)
+Each lab will have a short 5-10 minute quiz (3-4 questions) about the topic at hand. The said quiz will be worth between 30-40% of your grade for the lab; so please remember your obligations for this lab :)
