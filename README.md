@@ -11,6 +11,10 @@ You can always send my an email at `lsz@lorandszakacs.com`. Please make sure tha
 
 We will always be working on pre-configured virtual machines, which you can download from here: [http://www.cis.syr.edu/~wedu/seed/lab_env.html](http://www.cis.syr.edu/~wedu/seed/lab_env.html). You can obviously make use of these at home as well, nay, it is actually encouraged :)
 
+Please use the VM with Ubuntu version `12.04`, for compatability reasons. To user accounts for the OSes running in the VM are:
+- `seed`, pwd: `dees`
+- `root`, pwd: `seedubuntu`
+
 ## Your obligations
 
 Each lab will have to be read in advance. Don't worry, plenty of resources will be provided. Show up for all labs, except in extraneous circumstances, don't worry here either, I'm very understanding of personal issues that might prevent attending a lab.  
